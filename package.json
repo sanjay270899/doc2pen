@@ -1,7 +1,7 @@
 {
   "name": "doc2pen",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "http://sanjay270899.github.io/doc2pen",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
